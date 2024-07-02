@@ -28,7 +28,7 @@
 ## Connect with me ☕ : 
 <br>
 <a href="https://www.linkedin.com/in/gerardo-bonet-pérez-a9b599316" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="anirudh-rai-072732220" height="45" width="45" /></a>
-<a href="https://mailto:gerardobonet25@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="anirudh-rai-072732220" height="45" width="45" /></a>
+<a href="mailto:gerardobonet25@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="anirudh-rai-072732220" height="45" width="45" /></a>
 
 
 
