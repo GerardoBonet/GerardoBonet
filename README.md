@@ -8,7 +8,7 @@
 
 ## About Me :
 
-- 🎓 Currently, I am studying for a degree in computer engineering at the University of Granada.
+- 🎓 Currently, I am studying for a degree in computer engineering at University of Granada.
 - 🌱 I’m currently learning web development. 
 - 🏡 I live in **Granada**
 
