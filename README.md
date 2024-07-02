@@ -26,6 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoBonet&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
 
 ## Connect with me ☕ : 
-[![@GerardoBonet](https://img.icons8.com/fluency/48/000000/linkedin.png "@GerardoBonet")](www.linkedin.com/in/gerardo-bonet-pérez-a9b599316)
+<a href="www.linkedin.com/in/gerardo-bonet-pérez-a9b599316" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="anirudh-rai-072732220" height="45" width="45" /></a>
+
 
 
