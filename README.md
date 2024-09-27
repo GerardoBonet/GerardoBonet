@@ -1,11 +1,5 @@
 <h1 align="center"><b>Hi , I'm Gerardo Bonet 👋 </b></h1>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ## About Me :
 
 - 🎓 Currently, I am studying for a degree in computer engineering at University of Granada.
